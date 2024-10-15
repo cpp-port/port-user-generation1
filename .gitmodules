@@ -2,3 +2,7 @@
 	path = redshift
 	url = ../redshift
 	branch = main
+[submodule "imgui"]
+	path = imgui
+	url = ../imgui
+	branch = main
