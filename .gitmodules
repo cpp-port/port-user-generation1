@@ -6,7 +6,3 @@
 	path = imgui
 	url = ../imgui
 	branch = main
-[submodule "winnfsd"]
-	path = winnfsd
-	url = ../../ca2/winnfsd
-	branch = master
